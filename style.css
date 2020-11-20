@@ -1,0 +1,12 @@
+li {
+    list-style: none;
+}
+
+#product-listing {
+    margin-top: 24px;
+}
+
+.product-thumbnail {
+    width: 128px;
+    height: 128px;
+}
